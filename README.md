@@ -34,6 +34,3 @@ Three of these are also published, after review, on the official QGIS plugin rep
 - [photo-metadata-tool](https://github.com/yo-1/photo-metadata-tool) — 写真メタデータの検査・編集 / Inspect and edit photo metadata
 - [udc-presentation-timer](https://github.com/yo-1/udc-presentation-timer) — プレゼンテーション用タイマー / Presentation timer
 - [mitakihara-records-platform](https://github.com/yo-1/mitakihara-records-platform) — CKAN を公開投影先とする事業型情報記録基盤 / A records platform projecting to 
-
-実務（地籍・森林・GX）と開発（QGIS・GISデータ基盤）と普及（研修・学会・公開）を、一人の技術者の中でつなぐことを目指しています。
-Connecting practice (cadastre, forestry, GX), development and outreach — in the field, in code, and in the community.
