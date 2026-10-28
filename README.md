@@ -18,8 +18,8 @@ I translate real-world workflows into requirements and carry everything from spe
 | [forest-map-sheet-generator](https://github.com/yo-1/forest-map-sheet-generator) | 森林資源メッシュ用 国土基本図図郭作成 / Map-sheet frames for forest resource meshes |
 | [forest-mesh20m](https://github.com/yo-1/forest-mesh20m) | 森林資源量メッシュ（20m）生成 / 20 m forest resource mesh generation |
 
-CS Map Sheets、MORIZON Reloaded、QGIS Dev Probe は [plugins.qgis.org](https://plugins.qgis.org/search/?q=yo-1) でも審査を経て公開中です。
-Three of these are also published, after review, on the official QGIS plugin repository.
+CS Map Sheets と MORIZON Reloaded は [plugins.qgis.org](https://plugins.qgis.org/search/?q=yo-1) でも公開中です(QGIS Dev Probe は公開申請中で、審査承認待ちです)。
+CS Map Sheets and MORIZON Reloaded are also published on the official QGIS plugin repository. QGIS Dev Probe has been submitted and is awaiting approval.
 
 ## 🗾 Open GIS Data / 公開データ
 
@@ -32,4 +32,4 @@ Three of these are also published, after review, on the official QGIS plugin rep
 - [folder-csv-tool](https://github.com/yo-1/folder-csv-tool) — フォルダ・ファイル一覧のCSV化 / Inventory folders and files into CSV
 - [photo-metadata-tool](https://github.com/yo-1/photo-metadata-tool) — 写真メタデータの検査・編集 / Inspect and edit photo metadata
 - [udc-presentation-timer](https://github.com/yo-1/udc-presentation-timer) — プレゼンテーション用タイマー / Presentation timer
-- [mitakihara-records-platform](https://github.com/yo-1/mitakihara-records-platform) — CKAN を公開投影先とする事業型情報記録基盤 / A records platform projecting to 
+- [mitakihara-records-platform](https://github.com/yo-1/mitakihara-records-platform) — CKAN を公開投影先とする事業型情報記録基盤 / A records platform projecting to CKAN
