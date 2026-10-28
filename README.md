@@ -33,19 +33,7 @@ Three of these are also published, after review, on the official QGIS plugin rep
 - [folder-csv-tool](https://github.com/yo-1/folder-csv-tool) — フォルダ・ファイル一覧のCSV化 / Inventory folders and files into CSV
 - [photo-metadata-tool](https://github.com/yo-1/photo-metadata-tool) — 写真メタデータの検査・編集 / Inspect and edit photo metadata
 - [udc-presentation-timer](https://github.com/yo-1/udc-presentation-timer) — プレゼンテーション用タイマー / Presentation timer
-- [mitakihara-records-platform](https://github.com/yo-1/mitakihara-records-platform) — CKAN を公開投影先とする事業型情報記録基盤 / A records platform projecting to CKAN
-
-## 🎤 Activities / 対外活動
-
-- 地理情報システム学会 資格認定委員会 委員、自治体分科会 副分科会長 / GISA certification committee; vice-chair of the Local Government SIG
-- 山梨県立農林大学校「森林情報学」講師（2025年度）/ Lecturer, "Forest Informatics", Yamanashi Prefectural College of Agriculture and Forestry (2025)
-- FOSS4G SHINSHU 2025 登壇「VIRTUAL SHIZUOKAを活用した高性能林業機械体験機のデモンストレーション」/ Talk at FOSS4G SHINSHU 2025
-- アーバンデータチャレンジ実行委員 / Urban Data Challenge organizing committee
-
-## ✉️ Contact
-
-- Email: yo-1@geographic-information.net
-- QGIS plugins: [plugins.qgis.org](https://plugins.qgis.org/search/?q=yo-1)
+- [mitakihara-records-platform](https://github.com/yo-1/mitakihara-records-platform) — CKAN を公開投影先とする事業型情報記録基盤 / A records platform projecting to 
 
 実務（地籍・森林・GX）と開発（QGIS・GISデータ基盤）と普及（研修・学会・公開）を、一人の技術者の中でつなぐことを目指しています。
 Connecting practice (cadastre, forestry, GX), development and outreach — in the field, in code, and in the community.
