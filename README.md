@@ -1,4 +1,4 @@
-# Yo-1
+# yo-1
 
 **GISエンジニア / 森林技術者 — 地籍・森林の実務と、GX（グリーントランスフォーメーション）に資する森林情報基盤づくり、そしてQGISプラグイン開発をつなぐ仕事をしています。**
 **GIS engineer & forestry professional — bridging field practice in cadastre and forestry with forest data infrastructure for Green Transformation (GX) and QGIS plugin development.**
