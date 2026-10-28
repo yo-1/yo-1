@@ -3,11 +3,6 @@
 **GISエンジニア / 森林技術者 — 地籍・森林の実務と、GX（グリーントランスフォーメーション）に資する森林情報基盤づくり、そしてQGISプラグイン開発をつなぐ仕事をしています。**
 **GIS engineer & forestry professional — bridging field practice in cadastre and forestry with forest data infrastructure for Green Transformation (GX) and QGIS plugin development.**
 
-- 🎓 技術士（森林部門）・測量士・森林総合監理士 / Professional Engineer (Forestry), Licensed Surveyor
-- 🌲 地理情報システム学会（GISA）資格認定委員会 委員 / Committee member, GIS Association of Japan
-- 🌏 森林のCO₂吸収源としての価値をデータで支える、GXに資する森林情報基盤の整備に関心があります / Interested in forest data infrastructure for GX — making forests' value as carbon sinks visible and usable
-- 📍 過去1年で800件を超えるコントリビューション / 800+ contributions in the last year
-
 行政向けアプリ・QGISプラグイン開発では、実務の流れを要件に翻訳、仕様策定から実装まで一貫して担います。**「現場発の内製スタイル」**です。
 In developing apps and QGIS plugins for government use, I translate real-world workflows into requirements and carry everything from specification through to implementation — a **field-first, in-house style**.
 
